@@ -1,0 +1,60 @@
+{
+  "easyquestions": [
+    {
+      "question": " La Tunisie a été colonisée par :",
+      "answer1": "La France",
+      "answer2": "L'Italie",
+      "answer3": "L'Espagne",
+      "answer4": "Le Russie",
+      "correct": "La France"
+    },
+    {
+      "question": " Quand la Tunisie a pris son indépendence?",
+      "answer1": "1954",
+      "answer2": "1965",
+      "answer3": "1997",
+      "answer4": "1956",
+      "correct": "1956"
+    },
+    {
+      "question": " Parmi ces artistes lequel n'est pas tunisien ?",
+      "answer1": "Gad Elmaleh",
+      "answer2": "Michel Boujenah",
+      "answer3": "Tunisiano",
+      "answer4": "Balti",
+      "correct": "Gad Elmaleh"
+    },
+    {
+      "question": " Lequel de ces films a été tournés en Tunisie?",
+      "answer1": "Titanic",
+      "answer2": " Rambo",
+      "answer3": "Star Wars",
+      "answer4": "Le Lion du désert ",
+      "correct": "Star Wars"
+    },
+    {
+      "question": " Comment se nomme l'équipe de football tunisienne ?",
+      "answer1": "Les Lions de Carthage",
+      "answer2": " Les Rouges & Blancs",
+      "answer3": "Les Aigles de Carthage",
+      "answer4": "Le Lion du désert ",
+      "correct": "Les Aigles de Carthage"
+    },
+    {
+      "question": " De quelle mer la Tunisie est-elle bordée ?",
+      "answer1": "Mer Noire",
+      "answer2": "Mer Méditerranée",
+      "answer3": "Mer Rouge",
+      "answer4": "border pas la mer",
+      "correct": "Mer Méditerranée"
+    },
+    {
+      "question": " Quelle est la capitale économique de la Tunisie ?",
+      "answer1": "Sousse",
+      "answer2": "Tataouine",
+      "answer3": "Sfax",
+      "answer4": "Béja",
+      "correct": "Sfax"
+    }
+  ]
+}

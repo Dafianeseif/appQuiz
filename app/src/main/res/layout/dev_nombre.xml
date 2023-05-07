@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/cllr">
+
+    <TextView
+        android:layout_marginTop="45dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/devinez_un_nombre_entre_1_et_100"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:layout_marginTop="45dp"
+        android:id="@+id/guess_input"
+        android:layout_width="281dp"
+        android:layout_height="wrap_content"
+        android:hint="Entrez un nombre"
+        android:layout_gravity="center"
+        android:textColorHint="@color/white"
+        android:inputType="number"
+        android:minHeight="48dp" />
+
+    <Button
+        android:layout_marginTop="134dp"
+        android:id="@+id/submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Devinez"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/result_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="90dp"
+        android:text="resultat"
+        android:textColor="@color/white"/>
+    <Button
+        android:layout_marginTop="134dp"
+        android:id="@+id/pagehm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hh"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>

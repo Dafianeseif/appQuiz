@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">deviner</string>
+    <string name="devinette_des_mots">devinette des mots</string>
+    <string name="devinette_des_nombres">devinette des nombres</string>
+    <string name="quiz">QUIZ</string>
+    <string name="clean_score">clean score</string>
+    <string name="name_player">Name player :</string>
+    <string name="textview">TextView</string>
+    <string name="score">score :</string>
+    <string name="homepage">Homepage</string>
+    <string name="dafiane_seif_chaieb_mazen"><![CDATA[Dafiane Seif && Chaieb Mazen]]></string>
+    <string name="developer">Developer</string>
+    <string name="deviner_app">Deviner App</string>
+    <string name="app_version">App version</string>
+    <string name="todo">TODO</string>
+    <string name="h">TODO</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="to_the_riddling_games">TO THE RIDDLING GAMES</string>
+    <string name="hh">HomePage</string>
+    <string name="devinez_un_nombre_entre_1_et_100">Devinez un nombre entre 1 et 100</string>
+    <string name="developers">developers</string>
+</resources>
